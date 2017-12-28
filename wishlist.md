@@ -26,7 +26,6 @@ permalink: /wishlist/
      * 1x RGB LED                : $2.00/ea   : $2.00    : <a href="https://www.adafruit.com/product/159">Adafruit</a>
      * 1x solder                 : $7.95/ea   : $7.95    : <a href="https://www.adafruit.com/product/145">Adafruit</a>
      * 1x Soldering Iron         : $22.00/ea  : $22.00   : <a href="https://www.adafruit.com/product/180">Adafruit</a>
-------------------------------------------
 
  * Just nice things
    * Hakko Soldering station     : $109.95/ea : $109.95  : <a href="https://www.adafruit.com/product/1204">Adafruit</a>
