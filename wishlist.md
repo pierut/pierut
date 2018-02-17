@@ -3,6 +3,8 @@ layout: page
 title: Wishlist
 permalink: /wishlist/
 ---
+ * Wishlist links
+   * <a href="http://a.co/aOwaW0k">Amazon</a>
 
  * Project poops:
    * Raspberry Pi Cluster        : $352.73    : before tax and shipping
