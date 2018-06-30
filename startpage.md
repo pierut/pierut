@@ -4,7 +4,4 @@ title: pierut's browser start page
 permalink: /start/
 ---
 
-<object width="290" height="130">
-<param name="movie" value="http://www.wunderground.com/swf/pws_mini_rf_nc.swf?station=KKYCARRO5&freq=&units=english&lang=EN" />
-<embed src="http://www.wunderground.com/swf/pws_mini_rf_nc.swf?station=KKYCARRO5&freq=&units=english&lang=EN" type="application/x-shockwave-flash" width="290" height="130" />
-</object>
+<a href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KKYCARRO5"><img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=pws250_both&weatherstationcount=KKYCARRO5" width="250" height="150" border="0" alt="Weather Underground PWS KKYCARRO5" /></a>
