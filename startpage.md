@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pierut's browser start page
+title: X
 permalink: /start/
 ---
 

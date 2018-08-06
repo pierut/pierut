@@ -1,5 +1,5 @@
 ---
-title: useful linux things
+title: Linux Stuff
 date: 2018-8-6 8:33:55 +0000
 tags: [linux]
 ---
